@@ -1,0 +1,68 @@
+# Our custom settings
+*.apk
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+BUILDS/
+BUILD/
+BUILDS.meta
+BUILD.meta
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.sln
+*.svd
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.csproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+#Icon?
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-firstpass-vs.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+pd_standUSA-csharp.sln
+pd_standUSA.sln
+pd_USA_stand-csharp.sln
+pd_USA_stand.sln
+BUILD.app
+AssetBundles/
+RawFiles.meta
+RawFiles/
+LargeLandscapeScene.unity
+LargeLandscapeScene.unity.meta
+LandscapeScene.unity
+LandscapeScene.unity.meta
+Bundles/
+PATCH/
+Assets/README.md
+
+# =========== #
+#   Special   #
+# =========== #
+TestECS/
+TestECS.meta
